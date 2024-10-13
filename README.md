@@ -30,7 +30,7 @@ I'm a passionate software developer from India, currently diving deep into **Jav
 ✨ **Let’s build something amazing together!** ✨
 
 <p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Your Banner" width="100%" />
+  <img src="https://www.canva.com/design/DAGTb_usJRo/FeqPynDweM3BgZlwYvZvgA/edit?utm_content=DAGTb_usJRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Your Banner" width="100%" />
 </p>
 
 <p align="center">
