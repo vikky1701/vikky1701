@@ -11,7 +11,7 @@ I'm a passionate software developer from India, currently diving deep into **Jav
 
 ### 📫 How to Reach Me:
 - Instagram: [@_viikky17._](https://www.instagram.com/_viikky17._)
-- Email: vivek1217.work@gmail.com
+- Email: [vivek1217.work@gmail.com](mailto:vivek1217.work@gmail.com)
 - Phone: +91-7081128914
 
 ### 💻 Skills & Technologies
@@ -28,3 +28,27 @@ I'm a passionate software developer from India, currently diving deep into **Jav
 ---
 
 ✨ **Let’s build something amazing together!** ✨
+
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" alt="Your Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikky1701&show_icons=true&theme=radical" alt="vikky1701 GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikky1701&theme=radical" alt="vikky1701 streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky1701&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vikky1701&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0077b6&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=vikky1701&label=Profile%20views&color=0e75b6&style=flat" alt="vikky1701" /> 
+</p>
