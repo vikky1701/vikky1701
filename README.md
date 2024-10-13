@@ -1,7 +1,7 @@
 # Hi there, I'm Vivek! 👋 (a.k.a @vikky1701)
 
 ### 🚀 About Me
-I'm a passionate software developer from India, currently diving deep into **C programming** while expanding my knowledge across various tech stacks. I love exploring the latest technologies and building innovative projects that challenge my skills and creativity.
+I'm a passionate software developer from India, currently diving deep into **Java programming** while expanding my knowledge across various tech stacks. I love exploring the latest technologies and building innovative projects that challenge my skills and creativity.
 
 - 🌱 I’m currently mastering **C** and enhancing my skills in **Python**, **JavaScript**, and **React**.
 - 👀 I'm interested in **software development**, **ethical hacking**, and **cybersecurity**.
