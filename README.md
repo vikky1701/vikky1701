@@ -1,4 +1,4 @@
-# Hi there, I'm Vivek! 👋 (a.k.a @vikky)
+# Hi there, I'm Vivek! 👋 (a.k.a vikky)
 
 ### 🚀 About Me
 I'm a passionate software developer from India, currently diving deep into **Java programming** while expanding my knowledge across various tech stacks. I love exploring the latest technologies and building innovative projects that challenge my skills and creativity.
