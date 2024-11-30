@@ -10,7 +10,7 @@ I'm a passionate software developer from India, currently diving deep into **Jav
 - ⚡ Fun fact: When I'm not coding, you'll find me playing chess or diving deep into the world of **philosophy, human behavior, and psychology**.
 
 ### 📫 How to Reach Me:
-- Instagram: [@_viikky17._](https://www.instagram.com/_viikky17._)
+- Instagram: [@vikky._17](https://www.instagram.com/vikky._17/)
 - Email: [vivek1217.work@gmail.com](mailto:vivek1217.work@gmail.com)
 - Phone: +91-7081128914
 
