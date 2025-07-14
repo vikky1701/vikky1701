@@ -1,71 +1,81 @@
-# Hi there, I'm Vivek! 👋 (a.k.a vikky)
-### 🚀 About Me
-I'm a passionate software developer from India, currently diving deep into **Java programming** while expanding my knowledge across various tech stacks. I love exploring the latest technologies and building innovative projects that challenge my skills and creativity.
-- 🌱 I'm currently mastering **DevOps** and enhancing my skills in **Cloud Infrastructure**, **Automation**, and **Container Orchestration**.
-- 👀 I'm interested in **software development**, **ethical hacking**, and **cybersecurity**.
-- 💬 Let's talk about: **DevOps**, **Linux tools**, and **software architecture**.
-- 💞️ I'm open to collaborating on exciting open-source projects or real-world development tasks.
-- ⚡ Fun fact: When I'm not coding, you'll find me playing chess or diving deep into the world of **philosophy, human behavior, and psychology**.
+Hey, I'm Vivek! 🚀 (a.k.a Vikky)
 
-### 📫 How to Reach Me:
-- Instagram: [@vikky._17](https://www.instagram.com/vikky._17/)
-- Email: [vivek1217.work@gmail.com](mailto:vivek1217.work@gmail.com)
-- Phone: +91-7081128914
+  
 
-### 💻 Skills & Technologies
 
-#### **Programming Languages**
-- **Java**, **JavaScript**, **Python**, **Bash**
 
-#### **DevOps & Cloud**
-- **CI/CD**: Jenkins, GitHub Actions
-- **Containerization**: Docker, Kubernetes
-- **Cloud Platform**: AWS
-- **Infrastructure Automation**: Terraform, Ansible
-- **Orchestration**: Kubernetes, Docker Swarm
-- **Automation**: Shell Scripting, Bash Scripting
+🌟 About Me
+I'm a passionate software developer from India, weaving code into innovative solutions with a focus on Java and a curiosity for cutting-edge tech. My journey is fueled by creativity, problem-solving, and a relentless drive to learn and build impactful projects.
 
-#### **Database**
-- **SQL**, MySQL, PostgreSQL
+🌱 Currently mastering: DevOps, Cloud Infrastructure, and Container Orchestration to architect scalable systems.
+👀 Passions: Crafting robust software solutions, exploring ethical hacking, and diving into cybersecurity.
+💬 Let's geek out over: DevOps pipelines, Linux wizardry, software architecture, or even philosophy and human behavior.
+💞️ Collaboration vibe: Always excited to contribute to open-source projects or tackle real-world challenges with a team.
+⚡ Fun fact: When I'm not coding, I'm strategizing on a chessboard, pondering philosophical questions, or decoding the mysteries of human psychology.
 
-#### **Operating Systems & Tools**
-- **Linux**: Ubuntu
-- **Shell Scripting**: Bash
-- **Version Control**: Git, GitHub
 
-#### **Cybersecurity Tools**
-- **Metasploit**, **Ettercap**
-- **Ethical Hacking** techniques and methodologies
+📬 Connect with Me
 
-### 🔥 Recent Projects
-- 🛒 **Fashion Washion**: A fully functional e-commerce site with modern web technologies and cloud deployment.
-- 💹 **Stock Price Prediction**: A machine learning project using **Python** with automated CI/CD pipeline.
-- 🔐 **Cybersecurity Exploration**: Practical exploration using tools like **Metasploit**, **Ettercap**, and **ethical hacking** techniques on **Ubuntu**.
-- ☁️ **Cloud Infrastructure**: Automated deployment pipelines using **Jenkins**, **Docker**, and **AWS**.
+📸 Instagram: @vikky._17
+📧 Email: vivek1217.work@gmail.com
+📞 Phone: +91-7081128914
+🌐 GitHub: vikky1701
 
----
-✨ **Let's build something amazing together!** ✨
 
-<p align="center">
-  <img src="https://github.com/vikky1701/vikky1701/blob/main/banner.jpg" alt="Your Banner" width="100%" />
-</p>
+🛠️ Tech Arsenal
+Programming Languages
+   
+DevOps & Cloud
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikky1701&show_icons=true&theme=radical" alt="vikky1701 GitHub stats" />
-</p>
+CI/CD: Jenkins, GitHub Actions
+Containerization: Docker, Kubernetes
+Cloud Platform: AWS
+Infrastructure Automation: Terraform, Ansible
+Orchestration: Kubernetes, Docker Swarm
+Automation: Shell Scripting, Bash Scripting
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikky1701&theme=radical" alt="vikky1701 streaks" />
-</p>
+Databases
+  
+Operating Systems & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky1701&layout=compact&theme=radical" alt="Top languages" />
-</p>
+OS: Ubuntu, Linux
+Version Control: Git, GitHub
+Shell: Bash
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vikky1701&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0077b6&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+Cybersecurity Toolkit
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vikky1701&label=Profile%20views&color=0e75b6&style=flat" alt="vikky1701" /> 
-</p>
+Tools: Metasploit, Ettercap
+Skills: Ethical Hacking, Penetration Testing
+
+
+🚀 Showcase Projects
+
+🛒 Fashion Washion: A sleek e-commerce platform powered by modern web tech and deployed on AWS with a robust CI/CD pipeline.
+📈 Stock Price Prediction: A Python-based ML project with automated workflows using Jenkins and Docker.
+🔒 Cybersecurity Lab: Hands-on experiments with Metasploit, Ettercap, and ethical hacking techniques on Ubuntu.
+☁️ Cloud Automation: Streamlined infrastructure deployments using Terraform, Ansible, and Kubernetes.
+
+
+📊 My GitHub Stats
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+✨ Let’s code, innovate, and create something extraordinary together! ✨
