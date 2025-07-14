@@ -56,6 +56,9 @@ Skills: Ethical Hacking, Penetration Testing
 ☁️ Cloud Automation: Streamlined infrastructure deployments using Terraform, Ansible, and Kubernetes.
 
 
+<img src="YOUR_BANNER_IMAGE_PATH" alt="Your Banner" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
+
 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikky1701&show_icons=true&theme=dracula&hide_border=true" alt="Vivek's GitHub Stats" />
