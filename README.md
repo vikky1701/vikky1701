@@ -57,7 +57,25 @@ Skills: Ethical Hacking, Penetration Testing
 
 
 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikky1701&show_icons=true&theme=dracula&hide_border=true" alt="Vivek's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikky1701&theme=dracula&hide_border=true" alt="Vivek's GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikky1701&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vikky1701&bg_color=1a1b27&color=79eafc&line=79eafc&point=00b4d8&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikky1701&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
   
 
 
