@@ -1,12 +1,10 @@
 # Hi there, I'm Vivek! 👋 (a.k.a vikky)
-
 ### 🚀 About Me
 I'm a passionate software developer from India, currently diving deep into **Java programming** while expanding my knowledge across various tech stacks. I love exploring the latest technologies and building innovative projects that challenge my skills and creativity.
-
-- 🌱 I’m currently mastering **C** and enhancing my skills in **Python**, **JavaScript**, and **React**.
+- 🌱 I'm currently mastering **DevOps** and enhancing my skills in **Cloud Infrastructure**, **Automation**, and **Container Orchestration**.
 - 👀 I'm interested in **software development**, **ethical hacking**, and **cybersecurity**.
 - 💬 Let's talk about: **DevOps**, **Linux tools**, and **software architecture**.
-- 💞️ I’m open to collaborating on exciting open-source projects or real-world development tasks.
+- 💞️ I'm open to collaborating on exciting open-source projects or real-world development tasks.
 - ⚡ Fun fact: When I'm not coding, you'll find me playing chess or diving deep into the world of **philosophy, human behavior, and psychology**.
 
 ### 📫 How to Reach Me:
@@ -15,19 +13,38 @@ I'm a passionate software developer from India, currently diving deep into **Jav
 - Phone: +91-7081128914
 
 ### 💻 Skills & Technologies
-- **Languages**: C, Python, JavaScript, TypeScript, SQL
-- **Frameworks & Tools**: React, Svelte, Docker, Supabase
-- **Database**: MySQL, PostgreSQL
-- **Other**: Git, RESTful APIs, Linux (Ubuntu), Metasploit
+
+#### **Programming Languages**
+- **Java**, **JavaScript**, **Python**, **Bash**
+
+#### **DevOps & Cloud**
+- **CI/CD**: Jenkins, GitHub Actions
+- **Containerization**: Docker, Kubernetes
+- **Cloud Platform**: AWS
+- **Infrastructure Automation**: Terraform, Ansible
+- **Orchestration**: Kubernetes, Docker Swarm
+- **Automation**: Shell Scripting, Bash Scripting
+
+#### **Database**
+- **SQL**, MySQL, PostgreSQL
+
+#### **Operating Systems & Tools**
+- **Linux**: Ubuntu
+- **Shell Scripting**: Bash
+- **Version Control**: Git, GitHub
+
+#### **Cybersecurity Tools**
+- **Metasploit**, **Ettercap**
+- **Ethical Hacking** techniques and methodologies
 
 ### 🔥 Recent Projects
-- 🛒 **Fashion Washion**: A fully functional e-commerce site with **Svelte** and **Supabase**.
-- 💹 **Stock Price Prediction**: A machine learning project using **Python**, **Keras**, and **PyTorch**.
-- 🔐 **Cybersecurity Exploration**: Practical exploration using tools like **Metasploit** and **ethical hacking** techniques.
+- 🛒 **Fashion Washion**: A fully functional e-commerce site with modern web technologies and cloud deployment.
+- 💹 **Stock Price Prediction**: A machine learning project using **Python** with automated CI/CD pipeline.
+- 🔐 **Cybersecurity Exploration**: Practical exploration using tools like **Metasploit**, **Ettercap**, and **ethical hacking** techniques on **Ubuntu**.
+- ☁️ **Cloud Infrastructure**: Automated deployment pipelines using **Jenkins**, **Docker**, and **AWS**.
 
 ---
-
-✨ **Let’s build something amazing together!** ✨
+✨ **Let's build something amazing together!** ✨
 
 <p align="center">
   <img src="https://github.com/vikky1701/vikky1701/blob/main/banner.jpg" alt="Your Banner" width="100%" />
