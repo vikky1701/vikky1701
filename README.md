@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 Hey! It's me Vivek
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117,161b22,21262d&height=150&section=header&text=About%20Me&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&stroke=58a6ff&strokeWidth=2" alt="About Me Banner"/>
