@@ -1,7 +1,7 @@
 # 🚀 Hey there! I'm Vivek Yadav (Vikky) 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=VIVEK%20KUMAR&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AWS%20Specialist&descAlignY=51&descAlign=center" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vivek%20Yadav&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AWS%20Specialist&descAlignY=51&descAlign=center" alt="Header"/>
 </div>
 <div align="center">
   <h1>
