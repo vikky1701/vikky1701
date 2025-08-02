@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=Vivek%20Yadav&fontSize=50&fontColor=00f5ff&fontAlignY=50&desc=DevOps%20Architect%20%7C%20Cloud%20Engineer&descAlignY=70&descAlign=center&descSize=14" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=VIVEK%20KUMAR&fontSize=50&fontColor=00f5ff&fontAlignY=50&desc=DevOps%20Architect%20%7C%20Cloud%20Engineer&descAlignY=70&descAlign=center&descSize=14" alt="Header"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 ```yaml
 ◢ ENTITY_PROFILE ◤
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-designation: " DevOps Architect"
+designation: "Senior DevOps Architect"
 alias: ["Vikky", "The Infrastructure Whisperer"]
 coordinates: "India 🇮🇳"
 status: "ONLINE • BUILDING THE FUTURE"
@@ -95,45 +95,77 @@ mindmap
 
 <div align="center">
 
-## 🚀 **SKILL PROGRESSION** 🚀
+## 🚀 **SKILL MASTERY MATRIX** 🚀
 
 </div>
 
 <div align="center">
 
-```mermaid
-graph TB
-    A[Cloud Platforms] --> A1[AWS - Expert 95%]
-    A --> A2[Azure - Intermediate 70%]
-    A --> A3[GCP - Basic 60%]
-    
-    B[Container Orchestration] --> B1[Docker - Expert 95%]
-    B --> B2[Kubernetes - Expert 90%]
-    B --> B3[Docker Swarm - Advanced 80%]
-    
-    C[Infrastructure as Code] --> C1[Terraform - Expert 90%]
-    C --> C2[Ansible - Advanced 85%]
-    C --> C3[CloudFormation - Advanced 80%]
-    
-    D[Programming] --> D1[Python - Advanced 85%]
-    D --> D2[Java - Advanced 80%]
-    D --> D3[Shell Scripting - Expert 95%]
-    D --> D4[JavaScript - Intermediate 75%]
-    
-    E[CI/CD Tools] --> E1[Jenkins - Expert 90%]
-    E --> E2[GitHub Actions - Advanced 85%]
-    E --> E3[GitLab CI - Advanced 80%]
-    
-    F[Monitoring] --> F1[Prometheus - Advanced 85%]
-    F --> F2[Grafana - Advanced 80%]
-    F --> F3[ELK Stack - Intermediate 75%]
-    
-    style A1 fill:#00f5ff,stroke:#333,stroke-width:2px
-    style B1 fill:#00f5ff,stroke:#333,stroke-width:2px
-    style B2 fill:#00f5ff,stroke:#333,stroke-width:2px
-    style C1 fill:#00f5ff,stroke:#333,stroke-width:2px
-    style D3 fill:#00f5ff,stroke:#333,stroke-width:2px
-    style E1 fill:#00f5ff,stroke:#333,stroke-width:2px
+### ☁️ **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-Expert_95%25-000000?style=for-the-badge&logo=amazon-aws&logoColor=00f5ff&labelColor=0a0a0a)
+![Azure](https://img.shields.io/badge/Azure-Intermediate_70%25-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078d4&labelColor=0a0a0a)
+![GCP](https://img.shields.io/badge/GCP-Basic_60%25-000000?style=for-the-badge&logo=google-cloud&logoColor=4285f4&labelColor=0a0a0a)
+
+```
+AWS        ████████████████████ 95%
+Azure      ██████████████░░░░░░ 70%
+GCP        ████████████░░░░░░░░ 60%
+```
+
+### 🐳 **Container Orchestration**
+![Docker](https://img.shields.io/badge/Docker-Expert_95%25-000000?style=for-the-badge&logo=docker&logoColor=00f5ff&labelColor=0a0a0a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert_90%25-000000?style=for-the-badge&logo=kubernetes&logoColor=00f5ff&labelColor=0a0a0a)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-Advanced_80%25-000000?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=0a0a0a)
+
+```
+Docker     ████████████████████ 95%
+Kubernetes ███████████████████░ 90%
+Swarm      ████████████████░░░░ 80%
+```
+
+### 🏗️ **Infrastructure as Code**
+![Terraform](https://img.shields.io/badge/Terraform-Expert_90%25-000000?style=for-the-badge&logo=terraform&logoColor=00f5ff&labelColor=0a0a0a)
+![Ansible](https://img.shields.io/badge/Ansible-Advanced_85%25-000000?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=0a0a0a)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-Advanced_80%25-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0a0a0a)
+
+```
+Terraform     ███████████████████░ 90%
+Ansible       █████████████████░░░ 85%
+CloudFormation████████████████░░░░ 80%
+```
+
+### 💻 **Programming & Scripting**
+![Shell](https://img.shields.io/badge/Shell_Scripting-Expert_95%25-000000?style=for-the-badge&logo=gnu-bash&logoColor=00f5ff&labelColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-Advanced_85%25-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0a0a0a)
+![Java](https://img.shields.io/badge/Java-Advanced_80%25-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0a0a0a)
+
+```
+Shell Scripting ████████████████████ 95%
+Python          █████████████████░░░ 85%
+Java            ████████████████░░░░ 80%
+JavaScript      ███████████████░░░░░ 75%
+```
+
+### 🔄 **CI/CD & Automation**
+![Jenkins](https://img.shields.io/badge/Jenkins-Expert_90%25-000000?style=for-the-badge&logo=jenkins&logoColor=00f5ff&labelColor=0a0a0a)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Advanced_85%25-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF&labelColor=0a0a0a)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-Advanced_80%25-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26&labelColor=0a0a0a)
+
+```
+Jenkins        ███████████████████░ 90%
+GitHub Actions █████████████████░░░ 85%
+GitLab CI      ████████████████░░░░ 80%
+```
+
+### 📊 **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-Advanced_85%25-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=0a0a0a)
+![Grafana](https://img.shields.io/badge/Grafana-Advanced_80%25-000000?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=0a0a0a)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-Intermediate_75%25-000000?style=for-the-badge&logo=elastic&logoColor=005571&labelColor=0a0a0a)
+
+```
+Prometheus █████████████████░░░ 85%
+Grafana    ████████████████░░░░ 80%
+ELK Stack  ███████████████░░░░░ 75%
 ```
 
 </div>
