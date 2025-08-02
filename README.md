@@ -26,7 +26,7 @@
   <td align="center" style="padding: 20px;">
   
   ```yaml
-  name: "Vivek Kumar (Vikky)"
+  name: "Vivek Yadav (Vikky)"
   role: "DevOps Engineer & Cloud Architect"
   location: "India 🇮🇳"
   
