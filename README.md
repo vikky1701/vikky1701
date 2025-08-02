@@ -1,28 +1,6 @@
 # 🚀 Hey there! I'm Vivek Yadav (Vikky) 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Vivek%20Yadav&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AWS%20Specialist&descAlignY=51&descAlign=center" alt="Header"/>
-</div>
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🚀+WELCOME+TO+MY+DIGITAL+REALM+🚀;⚡+DEVOPS+WIZARD+%7C+CLOUD+ARCHITECT+⚡;🔥+AWS+FARGATE+%7C+KUBERNETES+MASTER+🔥;💫+AUTOMATION+ENTHUSIAST+%7C+CI%2FCD+EXPERT+💫" alt="Typing SVG" />
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="800" alt="Divider Animation"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d,30363d&height=200&section=header&text=Vivek%20Kumar&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%26%20Cloud%20Architect&descAlignY=55&descAlign=center&descSize=18" alt="Header"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=AWS+ECS+Fargate+%7C+Kubernetes+Expert;CI%2FCD+Pipeline+Architect;Infrastructure+Automation+Specialist" alt="Typing SVG" /> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="DevOps"/> </div>
 ---
 
 ## 🌟 About Me
