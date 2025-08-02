@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm Vivek Kumar (Vikky) 
+# 🚀 Hey there! I'm Vivek Yadav (Vikky) 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+Specialist+%7C+Kubernetes+Expert;CI%2FCD+Pipeline+Wizard+%7C+Automation+Enthusiast" alt="Typing SVG" />
@@ -13,9 +13,9 @@
 ## 🌟 About Me
 
 ```yaml
-name: "Vivek Kumar"
+name: "Vivek Yadav"
 role: "DevOps Engineer & Cloud Architect"
-location: "India 🇮🇳"
+location: "India, Greater Noida 🇮🇳"
 current_focus: 
   - "AWS ECS Fargate & Spot Instances"
   - "Blue-Green Deployments"
