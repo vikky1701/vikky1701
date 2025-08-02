@@ -15,82 +15,43 @@
 ## 🌟 About Me
 
 <div align="center">
-
-```yaml
-# DevOps Engineer Profile
-personal_info:
-  name: "Vivek Kumar (Vikky)"
-  role: "Senior DevOps Engineer & Cloud Solutions Architect"
-  location: "India 🇮🇳"
-  experience: "Scaling applications, optimizing costs, automating everything"
-  
-core_expertise:
-  cloud_platforms: ["AWS", "ECS Fargate", "Spot Instances", "Auto Scaling"]
-  container_orchestration: ["Kubernetes", "Docker", "Helm", "Docker Swarm"]
-  infrastructure_as_code: ["Terraform", "Ansible", "CloudFormation"]
-  ci_cd_automation: ["Jenkins", "GitHub Actions", "GitLab CI/CD", "Blue-Green Deployments"]
-  operating_systems: ["Linux", "Ubuntu", "Shell Scripting", "Bash"]
-  monitoring_observability: ["Prometheus", "Grafana", "ELK Stack", "CloudWatch"]
-  
-programming_languages:
-  primary: ["Shell/Bash", "Python", "YAML"]
-  secondary: ["Java", "JavaScript", "SQL"]
-  
-security_focus:
-  ethical_hacking: ["Metasploit", "Ettercap", "Penetration Testing"]
-  security_practices: ["OWASP", "Container Security", "Infrastructure Hardening"]
-  
-current_mission:
-  - "Building fault-tolerant, self-healing infrastructure"
-  - "Implementing GitOps workflows and policy-as-code"
-  - "Cost optimization with Fargate Spot & resource management"
-  - "Zero-downtime deployments with advanced deployment strategies"
-  
-philosophy: |
-  "Infrastructure is code, processes are automated, 
-   failures are learning opportunities, and scalability is non-negotiable. 
-   Measure twice, automate once! 🚀"
-
-personal_interests: ["Chess Strategy ♟️", "Philosophy", "Psychology", "Cybersecurity Research"]
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,28&height=120&section=header&text=About%20Me&fontSize=40&fontColor=58a6ff&animation=blinking&fontAlignY=70" alt="About Me Banner"/>
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🛠️ Current Tech Stack**
-```bash
-$ kubectl get skills --namespace=devops
-NAME                    STATUS    AGE
-aws-ecs-fargate        Expert    3y
-kubernetes             Expert    2y
-docker                 Expert    3y
-terraform              Advanced  2y
-jenkins                Expert    2y
-linux-administration  Expert    4y
-shell-scripting       Expert    4y
-python-automation     Advanced  2y
-```
-
-</td>
-<td align="center" width="50%">
-
-**📊 Weekly Activities**
-```json
-{
-  "infrastructure_automation": "40%",
-  "ci_cd_pipeline_optimization": "25%", 
-  "kubernetes_orchestration": "20%",
-  "cost_optimization": "10%",
-  "security_hardening": "5%"
-}
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+  
+  <table>
+  <tr>
+  <td align="center" style="padding: 20px;">
+  
+  ```yaml
+  name: "Vivek Kumar (Vikky)"
+  role: "DevOps Engineer & Cloud Architect"
+  location: "India 🇮🇳"
+  
+  expertise:
+    cloud: "AWS ECS Fargate, Spot Instances"
+    containers: "Docker, Kubernetes, Helm"
+    automation: "CI/CD, Jenkins, Terraform"
+    systems: "Linux, Shell Scripting, Python"
+    security: "Ethical Hacking, Penetration Testing"
+  
+  current_focus:
+    - "Blue-Green Deployments"
+    - "Infrastructure as Code"
+    - "Cost Optimization"
+    - "Zero-Downtime Scaling"
+  
+  philosophy: "Automate everything, fail fast, learn faster! 🚀"
+  ```
+  
+  </td>
+  </tr>
+  </table>
+  
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
+</div>
 
 ---
 
