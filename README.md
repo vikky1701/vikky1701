@@ -21,7 +21,7 @@
 ```yaml
 ◢ ENTITY_PROFILE ◤
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-designation: "Senior DevOps Architect"
+designation: " DevOps Architect"
 alias: ["Vikky", "The Infrastructure Whisperer"]
 coordinates: "India 🇮🇳"
 status: "ONLINE • BUILDING THE FUTURE"
