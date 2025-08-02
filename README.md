@@ -15,11 +15,11 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,28&height=120&section=header&text=About%20Me&fontSize=40&fontColor=58a6ff&animation=blinking&fontAlignY=70" alt="About Me Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0d1117,161b22,21262d&height=150&section=header&text=About%20Me&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&stroke=58a6ff&strokeWidth=2" alt="About Me Banner"/>
 </div>
 
 <div align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   
   <table>
   <tr>
@@ -50,7 +50,7 @@
   </tr>
   </table>
   
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </div>
 
 ---
