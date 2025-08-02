@@ -174,187 +174,79 @@ ELK Stack  ███████████████░░░░░ 75%
 
 <div align="center">
 
-## 🎯 **FEATURED PROJECTS** 🎯
+## 🎯 **DEVOPS PROJECTS** 🎯
 
 </div>
 
 <div align="center">
 
-### 🛒 **Fashion Washion E-Commerce Platform**
-*Production-Ready Scalable E-Commerce Solution*
+### 🔄 **CI/CD Pipeline Automation**
+*Automated Build, Test & Deployment Pipeline*
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Visit_Site-00ff00?style=for-the-badge&labelColor=000000)](https://fashion-washion.example.com) 
-[![Repository](https://img.shields.io/badge/📁_REPOSITORY-View_Code-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/fashion-washion)
-[![Documentation](https://img.shields.io/badge/📚_DOCS-Read_More-ff6b6b?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/fashion-washion/wiki)
+[![Repository](https://img.shields.io/badge/📁_VIEW_CODE-Repository-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/cicd-pipeline)
 
 ```mermaid
 graph LR
-    A[👤 User] --> B[🌐 CloudFront CDN]
-    B --> C[⚖️ Application Load Balancer]
-    C --> D[🐳 ECS Fargate Cluster]
-    D --> E[🔄 Blue/Green Deployment]
-    E --> F[📊 Auto Scaling Group]
-    F --> G[🗄️ RDS PostgreSQL]
-    F --> H[📦 S3 Static Assets]
-    D --> I[📈 CloudWatch Monitoring]
-    I --> J[🚨 SNS Alerts]
+    A[📝 Code Commit] --> B[🔄 Jenkins Pipeline]
+    B --> C[🧪 Automated Testing]
+    C --> D[🐳 Docker Build]
+    D --> E[📦 Container Registry]
+    E --> F[🚀 ECS Deployment]
+    F --> G[📊 Monitoring]
     
-    style A fill:#00f5ff,stroke:#333,stroke-width:2px
-    style D fill:#ff6b6b,stroke:#333,stroke-width:2px
-    style E fill:#00ff00,stroke:#333,stroke-width:2px
+    style B fill:#00f5ff,stroke:#333,stroke-width:2px
+    style F fill:#00ff00,stroke:#333,stroke-width:2px
 ```
 
-**🔧 Tech Stack & Architecture:**
-- **Frontend:** React.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, RESTful APIs
-- **Database:** PostgreSQL with read replicas
-- **Infrastructure:** AWS ECS Fargate, ALB, CloudFront
-- **CI/CD:** Jenkins Pipeline with automated testing
-- **Monitoring:** Prometheus, Grafana, CloudWatch
-
-**⚡ Key Achievements:**
-- `99.9%` uptime with zero-downtime deployments
-- `40%` cost reduction using Fargate Spot instances
-- `3x` faster load times with CDN optimization
-- Automated blue-green deployments with rollback capability
+**🔧 Technologies:** Jenkins, Docker, AWS ECS, Git, Shell Scripting, Terraform
+**⚡ Features:** Automated testing, Blue-green deployment, Rollback capability, Slack notifications
 
 ---
 
-### 📈 **AI-Powered Stock Prediction Engine**
-*Machine Learning Pipeline with Real-Time Analytics*
+### 🛠️ **Strapi CMS Automation**
+*Automated Strapi Deployment & Management*
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-Try_Predictions-00ff00?style=for-the-badge&labelColor=000000)](https://stock-predictor.example.com) 
-[![Repository](https://img.shields.io/badge/📁_REPOSITORY-View_Code-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/stock-prediction)
-[![Model Performance](https://img.shields.io/badge/🎯_ACCURACY-87.2%25-ff6b6b?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/stock-prediction/blob/main/PERFORMANCE.md)
+[![Repository](https://img.shields.io/badge/📁_VIEW_CODE-Repository-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/strapi-automation)
 
 ```mermaid
 graph TD
-    A[📊 Data Sources] --> B[🔄 Data Pipeline]
-    B --> C[🧠 ML Training Pipeline]
-    C --> D[📦 Model Registry]
-    D --> E[🚀 Model Serving API]
-    E --> F[📱 Web Application]
+    A[📱 Strapi CMS] --> B[🐳 Docker Container]
+    B --> C[☸️ Kubernetes Pod]
+    C --> D[🗄️ PostgreSQL DB]
+    C --> E[📦 File Storage]
+    F[🔄 Automation Scripts] --> G[📊 Health Checks]
+    G --> H[🚨 Auto Scaling]
     
-    B --> G[📈 Real-time Streaming]
-    G --> H[⚡ Kafka Streams]
-    H --> I[🔮 Prediction Engine]
-    I --> F
-    
-    C --> J[☸️ Kubernetes Jobs]
-    J --> K[📊 MLflow Tracking]
-    E --> L[🐳 Docker Containers]
-    L --> M[🔄 Auto Scaling]
-    
-    style C fill:#ff6b6b,stroke:#333,stroke-width:2px
-    style E fill:#00f5ff,stroke:#333,stroke-width:2px
-    style I fill:#00ff00,stroke:#333,stroke-width:2px
+    style F fill:#ff6b6b,stroke:#333,stroke-width:2px
+    style C fill:#00f5ff,stroke:#333,stroke-width:2px
 ```
 
-**🔧 Tech Stack & ML Pipeline:**
-- **ML Framework:** TensorFlow, Scikit-learn, Pandas
-- **Data Pipeline:** Apache Kafka, Apache Airflow
-- **Container Orchestration:** Kubernetes, Helm Charts
-- **Model Serving:** TensorFlow Serving, FastAPI
-- **Infrastructure:** AWS EKS, EC2 Spot Instances
-- **Monitoring:** Prometheus, Grafana, MLflow
-
-**⚡ Key Achievements:**
-- `87.2%` prediction accuracy on test dataset
-- Real-time processing of `10K+` data points per second
-- Automated model retraining with drift detection
-- Scalable architecture handling `1M+` daily predictions
+**🔧 Technologies:** Strapi, Docker, Kubernetes, PostgreSQL, Ansible, Bash Scripts
+**⚡ Features:** Auto-scaling, Database backups, SSL automation, Performance monitoring
 
 ---
 
-### ☁️ **Multi-Cloud Infrastructure Automation Suite**
-*Enterprise-Grade Infrastructure as Code Platform*
+### ☁️ **Infrastructure as Code Suite**
+*Terraform & Ansible Infrastructure Automation*
 
-[![Repository](https://img.shields.io/badge/📁_REPOSITORY-View_Code-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/cloud-automation)
-[![Terraform Registry](https://img.shields.io/badge/🏗️_TERRAFORM-Published_Modules-7B42BC?style=for-the-badge&labelColor=000000)](https://registry.terraform.io/modules/vikky1701)
-[![Documentation](https://img.shields.io/badge/📚_DOCS-Complete_Guide-ff6b6b?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/cloud-automation/wiki)
-
-```mermaid
-graph TB
-    A[🔧 Terraform Modules] --> B[☁️ Multi-Cloud Deployment]
-    B --> C[🔴 AWS Infrastructure]
-    B --> D[🔵 Azure Resources]
-    B --> E[🟡 GCP Services]
-    
-    F[⚙️ Ansible Playbooks] --> G[🔧 Configuration Management]
-    G --> H[🐧 Linux Servers]
-    G --> I[☸️ Kubernetes Clusters]
-    G --> J[🗄️ Database Setup]
-    
-    K[🔄 CI/CD Pipeline] --> L[✅ Validation & Testing]
-    L --> M[🚀 Automated Deployment]
-    M --> N[📊 Infrastructure Monitoring]
-    
-    O[💰 Cost Optimization] --> P[📈 Resource Scaling]
-    P --> Q[⏰ Scheduled Scaling]
-    P --> R[💡 Spot Instance Management]
-    
-    style B fill:#00f5ff,stroke:#333,stroke-width:2px
-    style G fill:#ff6b6b,stroke:#333,stroke-width:2px
-    style M fill:#00ff00,stroke:#333,stroke-width:2px
-```
-
-**🔧 Tech Stack & Automation:**
-- **IaC Tools:** Terraform, Ansible, Pulumi
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Container Platform:** Kubernetes, Docker
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
-- **Monitoring:** Prometheus, Grafana, ELK Stack
-- **Secret Management:** HashiCorp Vault, AWS Secrets Manager
-
-**⚡ Key Achievements:**
-- `50+` reusable Terraform modules published
-- `60%` reduction in infrastructure provisioning time
-- Cross-cloud disaster recovery with `RTO < 15 minutes`
-- Automated cost optimization saving `$10K+` monthly
-
----
-
-### 🔒 **Cybersecurity Testing & Automation Lab**
-*Advanced Penetration Testing & Security Automation*
-
-[![Repository](https://img.shields.io/badge/📁_REPOSITORY-View_Code-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/security-lab)
-[![Security Reports](https://img.shields.io/badge/📋_REPORTS-View_Findings-E74C3C?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/security-lab/tree/main/reports)
-[![Tools](https://img.shields.io/badge/🛠️_TOOLS-Custom_Scripts-557C94?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/security-lab/tree/main/tools)
+[![Repository](https://img.shields.io/badge/📁_VIEW_CODE-Repository-00f5ff?style=for-the-badge&labelColor=000000)](https://github.com/vikky1701/infrastructure-automation)
 
 ```mermaid
 graph LR
-    A[🎯 Target Systems] --> B[🔍 Reconnaissance]
-    B --> C[📊 Vulnerability Scanning]
-    C --> D[⚡ Exploitation]
-    D --> E[🏴‍☠️ Post-Exploitation]
-    E --> F[📝 Reporting]
+    A[🏗️ Terraform] --> B[☁️ AWS Resources]
+    B --> C[🖥️ EC2 Instances]
+    B --> D[🗄️ RDS Database]
+    B --> E[🌐 Load Balancer]
+    F[⚙️ Ansible] --> G[🔧 Configuration]
+    G --> C
+    G --> H[📊 Monitoring Setup]
     
-    G[🤖 Automation Scripts] --> H[🔄 Scheduled Scans]
-    H --> I[📊 Dashboard Updates]
-    I --> J[🚨 Alert System]
-    
-    K[🐳 Docker Environment] --> L[🔧 Tool Deployment]
-    L --> M[🌐 Network Simulation]
-    M --> N[📈 Performance Metrics]
-    
-    style D fill:#E74C3C,stroke:#333,stroke-width:2px
-    style G fill:#00f5ff,stroke:#333,stroke-width:2px
-    style J fill:#ff6b6b,stroke:#333,stroke-width:2px
+    style A fill:#7B42BC,stroke:#333,stroke-width:2px
+    style F fill:#EE0000,stroke:#333,stroke-width:2px
 ```
 
-**🔧 Security Arsenal & Tools:**
-- **OS Platform:** Kali Linux, Parrot Security OS
-- **Frameworks:** Metasploit, Cobalt Strike, Empire
-- **Network Tools:** Nmap, Ettercap, Wireshark, Burp Suite
-- **Automation:** Python scripts, Bash automation
-- **Containers:** Docker, Kubernetes security testing
-- **Reporting:** Custom dashboards, automated reports
-
-**⚡ Key Achievements:**
-- `200+` vulnerabilities identified and patched
-- Automated penetration testing pipeline
-- Custom exploit development and deployment
-- Security awareness training for `50+` developers
+**🔧 Technologies:** Terraform, Ansible, AWS, Shell Scripting, Jenkins
+**⚡ Features:** Multi-environment deployment, Cost optimization, Automated backups, Security hardening
 
 </div>
 
@@ -387,13 +279,11 @@ graph LR
 
 <div align="center">
 
-## 🏆 **DIGITAL SUPREMACY** 🏆
+## 🏆 **PERFORMANCE METRICS** 🏆
 
 </div>
 
 <div align="center">
-
-**🎯 PERFORMANCE MATRIX 🎯**
 
 | **METRIC** | **CURRENT** | **TARGET** | **STATUS** |
 |------------|-------------|------------|-------------|
@@ -404,32 +294,24 @@ graph LR
 | ☁️ **Uptime** | `99.95%` | `99.99%` | █████████░ 95% |
 | 💰 **Cost Optimization** | `45% SAVED` | `60% TARGET` | ███████░░░ 75% |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikky1701&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
 
 <div align="center">
 
-## 🌐 **ESTABLISH CONNECTION** 🌐
+## 📡 **CONNECT** 📡
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-</div>
 
-<div align="center">
+[![Email](https://img.shields.io/badge/vivek1217.work@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0a0a0a)](mailto:vivek1217.work@gmail.com)
+[![Phone](https://img.shields.io/badge/+91--7081128914-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0a0a0a)](tel:+917081128914)
 
-**📡 COMMUNICATION PROTOCOLS 📡**
-
-[![Email](https://img.shields.io/badge/SECURE_MAIL-vivek1217.work@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0a0a0a)](mailto:vivek1217.work@gmail.com)
-[![Phone](https://img.shields.io/badge/ENCRYPTED_COMM-+91--7081128914-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0a0a0a)](tel:+917081128914)
-
-[![GitHub](https://img.shields.io/badge/CODE_REPOSITORY-vikky1701-000000?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a0a0a)](https://github.com/vikky1701)
-[![Instagram](https://img.shields.io/badge/VISUAL_FEED-@vikky.._17-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0a0a0a)](https://instagram.com/vikky._17)
-[![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0a0a0a)](https://linkedin.com/in/vivek-kumar-devops)
+[![GitHub](https://img.shields.io/badge/vikky1701-000000?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a0a0a)](https://github.com/vikky1701)
+[![LinkedIn](https://img.shields.io/badge/vivek--kumar--devops-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0a0a0a)](https://linkedin.com/in/vivek-kumar-devops)
+[![Instagram](https://img.shields.io/badge/@vikky.._17-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0a0a0a)](https://instagram.com/vikky._17)
 
 </div>
 
