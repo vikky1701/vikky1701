@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=Vivek%20Yadav&fontSize=50&fontColor=00f5ff&fontAlignY=50&desc=DevOps%20Architect%20%7C%20Cloud%20Engineer&descAlignY=70&descAlign=center&descSize=14" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=VIVEK%20KUMAR&fontSize=50&fontColor=00f5ff&fontAlignY=50&desc=DevOps%20Architect%20%7C%20Cloud%20Engineer&descAlignY=70&descAlign=center&descSize=14" alt="Header"/>
 </div>
 
 <div align="center">
@@ -10,33 +10,42 @@
 
 <div align="center">
 
-## ⚡ **THE MATRIX** ⚡
+## ⚡ **PROFILE** ⚡
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="background: url('https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'); background-size: cover; border-radius: 15px; padding: 30px;">
+        
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150">
 
 ```yaml
-◢ ENTITY_PROFILE ◤
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-designation: "DevOps Architect"
-alias: ["Vikky", "The Infrastructure Whisperer"]
-coordinates: "India 🇮🇳"
-status: "ONLINE • BUILDING THE FUTURE"
+name: "Vivek Kumar (Vikky)"
+role: "DevOps Engineer & Cloud Architect"
+location: "India 🇮🇳"
+status: "Building the Future • Online"
 
-◢ CORE_CAPABILITIES ◤  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-cloud_mastery: "AWS ECS Fargate • Spot Orchestration"
-container_sorcery: "Docker • K8s • Helm Wizardry"
-pipeline_architecture: "Jenkins • GitHub Actions • GitLab"
-infrastructure_magic: "Terraform • Ansible • IaC"
-security_warfare: "Ethical Hacking • Pen Testing"
+specialization:
+  cloud: "AWS ECS Fargate • Spot Orchestration"
+  containers: "Docker • Kubernetes • Helm"
+  automation: "CI/CD • Jenkins • Terraform"
+  security: "Ethical Hacking • Pen Testing"
 
-◢ NEURAL_NETWORK ◤
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-philosophy: "Code • Deploy • Scale • Repeat ∞"
-mission: "Transforming Infrastructure into Art"
+philosophy: "Automate Everything • Scale Infinitely"
+mission: "Infrastructure as Code Architect"
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="150">
 
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
