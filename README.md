@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=VIVEK%20KUMAR&fontSize=50&fontColor=00f5ff&fontAlignY=50&desc=DevOps%20Architect%20%7C%20Cloud%20Engineer&descAlignY=70&descAlign=center&descSize=14" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=Vivek%20Yadav&fontSize=50&fontColor=00f5ff&fontAlignY=50&desc=DevOps%20Architect%20%7C%20Cloud%20Engineer&descAlignY=70&descAlign=center&descSize=14" alt="Header"/>
 </div>
 
 <div align="center">
@@ -26,9 +26,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="150">
 
 ```yaml
-name: "Vivek Kumar (Vikky)"
+name: "Vivek Yadav (Vikky)"
 role: "DevOps Engineer & Cloud Architect"
-location: "India 🇮🇳"
+location: "Greater noida, India 🇮🇳"
 status: "Building the Future • Online"
 
 specialization:
@@ -43,8 +43,7 @@ mission: "Infrastructure as Code Architect"
 
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="150">
 
-      </td>
-    </tr>
+    
   </table>
 </div>
 
