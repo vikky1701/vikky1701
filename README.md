@@ -1,27 +1,96 @@
-# 🚀 Hey there! I'm Vivek Yadav (Vikky) 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d,30363d&height=200&section=header&text=Vivek%20Kumar&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%26%20Cloud%20Architect&descAlignY=55&descAlign=center&descSize=18" alt="Header"/>
+</div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,21262d,30363d&height=200&section=header&text=Vivek%20Kumar&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%26%20Cloud%20Architect&descAlignY=55&descAlign=center&descSize=18" alt="Header"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=AWS+ECS+Fargate+%7C+Kubernetes+Expert;CI%2FCD+Pipeline+Architect;Infrastructure+Automation+Specialist" alt="Typing SVG" /> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="DevOps"/> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=AWS+ECS+Fargate+%7C+Kubernetes+Expert;CI%2FCD+Pipeline+Architect;Infrastructure+Automation+Specialist" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="DevOps"/>
+</div>
+
 ---
 
 ## 🌟 About Me
 
+<div align="center">
+
 ```yaml
-name: "Vivek Yadav"
-role: "DevOps Engineer & Cloud Architect"
-location: "India, Greater Noida 🇮🇳"
-current_focus:
-  - "DevOps, SRE, Linux Administrator"
-  - "AWS ECS Fargate & Spot Instances"
-  - "Blue-Green Deployments"
-  - "Kubernetes Orchestration"
-  - "CI/CD Pipeline Optimization"
-passion: ["Cloud Infrastructure", "Automation", "Ethical Hacking", "Chess ♟️"]
-philosophy: "Automate everything, fail fast, learn faster! 🎯"
+# DevOps Engineer Profile
+personal_info:
+  name: "Vivek Kumar (Vikky)"
+  role: "Senior DevOps Engineer & Cloud Solutions Architect"
+  location: "India 🇮🇳"
+  experience: "Scaling applications, optimizing costs, automating everything"
+  
+core_expertise:
+  cloud_platforms: ["AWS", "ECS Fargate", "Spot Instances", "Auto Scaling"]
+  container_orchestration: ["Kubernetes", "Docker", "Helm", "Docker Swarm"]
+  infrastructure_as_code: ["Terraform", "Ansible", "CloudFormation"]
+  ci_cd_automation: ["Jenkins", "GitHub Actions", "GitLab CI/CD", "Blue-Green Deployments"]
+  operating_systems: ["Linux", "Ubuntu", "Shell Scripting", "Bash"]
+  monitoring_observability: ["Prometheus", "Grafana", "ELK Stack", "CloudWatch"]
+  
+programming_languages:
+  primary: ["Shell/Bash", "Python", "YAML"]
+  secondary: ["Java", "JavaScript", "SQL"]
+  
+security_focus:
+  ethical_hacking: ["Metasploit", "Ettercap", "Penetration Testing"]
+  security_practices: ["OWASP", "Container Security", "Infrastructure Hardening"]
+  
+current_mission:
+  - "Building fault-tolerant, self-healing infrastructure"
+  - "Implementing GitOps workflows and policy-as-code"
+  - "Cost optimization with Fargate Spot & resource management"
+  - "Zero-downtime deployments with advanced deployment strategies"
+  
+philosophy: |
+  "Infrastructure is code, processes are automated, 
+   failures are learning opportunities, and scalability is non-negotiable. 
+   Measure twice, automate once! 🚀"
+
+personal_interests: ["Chess Strategy ♟️", "Philosophy", "Psychology", "Cybersecurity Research"]
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="DevOps Animation"/>
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🛠️ Current Tech Stack**
+```bash
+$ kubectl get skills --namespace=devops
+NAME                    STATUS    AGE
+aws-ecs-fargate        Expert    3y
+kubernetes             Expert    2y
+docker                 Expert    3y
+terraform              Advanced  2y
+jenkins                Expert    2y
+linux-administration  Expert    4y
+shell-scripting       Expert    4y
+python-automation     Advanced  2y
+```
+
+</td>
+<td align="center" width="50%">
+
+**📊 Weekly Activities**
+```json
+{
+  "infrastructure_automation": "40%",
+  "ci_cd_pipeline_optimization": "25%", 
+  "kubernetes_orchestration": "20%",
+  "cost_optimization": "10%",
+  "security_hardening": "5%"
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
