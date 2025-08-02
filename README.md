@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=300&section=header&text=VIVEK%20KUMAR&fontSize=60&fontColor=00f5ff&animation=blinking&fontAlignY=38&desc=∞%20DevOps%20Architect%20∞%20Cloud%20Alchemist%20∞&descAlignY=65&descAlign=center&descSize=16&stroke=00f5ff&strokeWidth=1" alt="Venom Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=300&section=header&text=VIVEK%20KUMAR&fontSize=60&fontColor=00f5ff&animation=blinking&fontAlignY=38&desc=∞%20DevOps%20Architect%20∞%20Cloud%20Alchemist%20∞&descAlignY=65&descAlign=center&descSize=16&stroke=00f5ff&strokeWidth=1" alt="Header"/>
 </div>
 
 <div align="center">
@@ -19,15 +19,13 @@
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%); border-radius: 15px; padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
-        
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+
 ```yaml
 ◢ ENTITY_PROFILE ◤
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-designation: "Senior DevOps Architect"
+designation: " DevOps Architect"
 alias: ["Vikky", "The Infrastructure Whisperer"]
 coordinates: "India 🇮🇳"
 status: "ONLINE • BUILDING THE FUTURE"
@@ -45,12 +43,9 @@ security_warfare: "Ethical Hacking • Pen Testing"
 philosophy: "Code • Deploy • Scale • Repeat ∞"
 mission: "Transforming Infrastructure into Art"
 ```
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="200">
-      </td>
-    </tr>
-  </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300">
+
 </div>
 
 ---
@@ -67,55 +62,35 @@ mission: "Transforming Infrastructure into Art"
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                  ⚡ CLOUD DOMINION ⚡                              ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+**⚡ CLOUD DOMINION ⚡**
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0a0a0a)
 ![ECS](https://img.shields.io/badge/ECS_FARGATE-000000?style=for-the-badge&logo=amazon-ecs&logoColor=00f5ff&labelColor=0a0a0a)
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=0a0a0a)
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=326ce5&labelColor=0a0a0a)
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                               🚀 AUTOMATION MATRIX 🚀                            ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+**🚀 AUTOMATION MATRIX 🚀**
 
 ![Terraform](https://img.shields.io/badge/TERRAFORM-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC&labelColor=0a0a0a)
 ![Jenkins](https://img.shields.io/badge/JENKINS-000000?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=0a0a0a)
 ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF&labelColor=0a0a0a)
 ![Ansible](https://img.shields.io/badge/ANSIBLE-000000?style=for-the-badge&logo=ansible&logoColor=EE0000&labelColor=0a0a0a)
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                🧠 CODE MASTERY 🧠                                ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+**🧠 CODE MASTERY 🧠**
 
 ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0a0a0a)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0a0a0a)
 ![Shell](https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&labelColor=0a0a0a)
 ![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0a0a0a)
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                              🔍 SURVEILLANCE GRID 🔍                            ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+**🔍 SURVEILLANCE GRID 🔍**
 
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C&labelColor=0a0a0a)
 ![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=F46800&labelColor=0a0a0a)
 ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0a0a0a)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192&labelColor=0a0a0a)
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                              🛡️ CYBER WARFARE 🛡️                               ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
+**🛡️ CYBER WARFARE 🛡️**
 
 ![Kali](https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94&labelColor=0a0a0a)
 ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=for-the-badge&logo=metasploit&logoColor=ED1C24&labelColor=0a0a0a)
@@ -132,16 +107,7 @@ mission: "Transforming Infrastructure into Art"
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  ⚡ ACTIVE DEPLOYMENTS ⚡                                                                 ║
-║  ████████████████████████████████████████████████████████████████████████████  100%     ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<table>
-<tr>
-<td align="center" width="50%">
+**⚡ ACTIVE DEPLOYMENTS ⚡**
 
 ### 🛒 **FASHION WASHION**
 *E-COMMERCE DOMINATION*
@@ -158,9 +124,6 @@ mission: "Transforming Infrastructure into Art"
 └─────────────────────────────────┘
 ```
 
-</td>
-<td align="center" width="50%">
-
 ### 📊 **ML STOCK PREDICTOR**
 *FINANCIAL ORACLE*
 
@@ -175,10 +138,6 @@ mission: "Transforming Infrastructure into Art"
 │ 🎯 Predictive Analytics        │
 └─────────────────────────────────┘
 ```
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -217,11 +176,7 @@ mission: "Transforming Infrastructure into Art"
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                              🎯 PERFORMANCE MATRIX 🎯                            ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
-```
+**🎯 PERFORMANCE MATRIX 🎯**
 
 | **METRIC** | **CURRENT** | **TARGET** | **STATUS** |
 |------------|-------------|------------|-------------|
@@ -250,11 +205,7 @@ mission: "Transforming Infrastructure into Art"
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                           📡 COMMUNICATION PROTOCOLS 📡                ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+**📡 COMMUNICATION PROTOCOLS 📡**
 
 [![Email](https://img.shields.io/badge/SECURE_MAIL-vivek1217.work@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0a0a0a)](mailto:vivek1217.work@gmail.com)
 [![Phone](https://img.shields.io/badge/ENCRYPTED_COMM-+91--7081128914-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0a0a0a)](tel:+917081128914)
@@ -305,11 +256,7 @@ mission: "Transforming Infrastructure into Art"
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                          🌟 "CODE • DEPLOY • DOMINATE" 🌟                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+**🌟 "CODE • DEPLOY • DOMINATE" 🌟**
 
 <img src="https://komarev.com/ghpvc/?username=vikky1701&label=NEURAL%20CONNECTIONS&color=00f5ff&style=for-the-badge&labelColor=000000" alt="Profile Views" />
 
