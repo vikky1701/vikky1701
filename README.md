@@ -313,7 +313,6 @@ graph LR
 [![Phone](https://img.shields.io/badge/+91--7081128914-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0a0a0a)](tel:+917081128914)
 
 [![GitHub](https://img.shields.io/badge/vikky1701-000000?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a0a0a)](https://github.com/vikky1701)
-[![LinkedIn](https://img.shields.io/badge/vivek--yadav--devops-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0a0a0a)](https://www.linkedin.com/in/vivek-yadav1701/
 [![Instagram](https://img.shields.io/badge/@vikky.._17-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0a0a0a)](https://instagram.com/vikky._17)
 
 </div>
