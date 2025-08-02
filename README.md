@@ -16,7 +16,8 @@
 name: "Vivek Yadav"
 role: "DevOps Engineer & Cloud Architect"
 location: "India, Greater Noida 🇮🇳"
-current_focus: 
+current_focus:
+  - "DevOps, SRE, Linux Administrator"
   - "AWS ECS Fargate & Spot Instances"
   - "Blue-Green Deployments"
   - "Kubernetes Orchestration"
