@@ -58,38 +58,87 @@ mission: "Infrastructure as Code Architect"
 <div align="center">
 
 ```mermaid
-mindmap
-  root((DevOps Core))
-    Cloud
-      AWS ECS Fargate
-      EC2 Spot Instances
-      Lambda Functions
-      RDS & DynamoDB
-    Containers
-      Docker
-      Kubernetes
-      Helm Charts
-      Container Registry
-    CI/CD
-      Jenkins Pipelines
-      GitHub Actions
-      GitLab CI
-      ArgoCD
-    Infrastructure
-      Terraform
-      Ansible
-      CloudFormation
-      Pulumi
-    Monitoring
-      Prometheus
-      Grafana
-      ELK Stack
-      CloudWatch
-    Security
-      Kali Linux
-      Metasploit
-      Vulnerability Scanning
-      Network Penetration
+graph TB
+    %% Central Hub
+    subgraph Core [" "]
+        DevOps[("⚡<br/>DEVOPS<br/>NEXUS<br/>⚡")]
+    end
+    
+    %% Hexagonal Layout
+    subgraph Hex1 [" "]
+        direction TB
+        Cloud1[("☁️<br/>AWS ECS<br/>FARGATE")]
+        Cloud2[("⚡<br/>LAMBDA<br/>SERVERLESS")]
+        Cloud3[("🗄️<br/>RDS<br/>DATABASE")]
+    end
+    
+    subgraph Hex2 [" "]
+        direction TB
+        Container1[("🐋<br/>DOCKER<br/>ENGINE")]
+        Container2[("☸️<br/>KUBERNETES<br/>ORCHESTRA")]
+        Container3[("⎈<br/>HELM<br/>CHARTS")]
+    end
+    
+    subgraph Hex3 [" "]
+        direction TB
+        CI1[("🔧<br/>JENKINS<br/>PIPELINE")]
+        CI2[("🐙<br/>GITHUB<br/>ACTIONS")]
+        CI3[("🦊<br/>GITLAB<br/>CI")]
+    end
+    
+    subgraph Hex4 [" "]
+        direction TB
+        IaC1[("🟣<br/>TERRAFORM<br/>STATE")]
+        IaC2[("🔴<br/>ANSIBLE<br/>CONFIG")]
+        IaC3[("🟡<br/>PULUMI<br/>MODERN")]
+    end
+    
+    subgraph Hex5 [" "]
+        direction TB
+        Mon1[("📈<br/>PROMETHEUS<br/>METRICS")]
+        Mon2[("📊<br/>GRAFANA<br/>VISUAL")]
+        Mon3[("🔍<br/>ELK<br/>LOGS")]
+    end
+    
+    subgraph Hex6 [" "]
+        direction TB
+        Sec1[("💀<br/>KALI<br/>LINUX")]
+        Sec2[("🎯<br/>METASPLOIT<br/>EXPLOIT")]
+        Sec3[("🛡️<br/>VULNERABILITY<br/>SCAN")]
+    end
+    
+    %% Connections
+    DevOps ---|"ORCHESTRATES"| Cloud1
+    DevOps ---|"MANAGES"| Container1
+    DevOps ---|"AUTOMATES"| CI1
+    DevOps ---|"PROVISIONS"| IaC1
+    DevOps ---|"MONITORS"| Mon1
+    DevOps ---|"SECURES"| Sec1
+    
+    %% Hex connections
+    Cloud1 -.-> Cloud2 -.-> Cloud3 -.-> Cloud1
+    Container1 -.-> Container2 -.-> Container3 -.-> Container1
+    CI1 -.-> CI2 -.-> CI3 -.-> CI1
+    IaC1 -.-> IaC2 -.-> IaC3 -.-> IaC1
+    Mon1 -.-> Mon2 -.-> Mon3 -.-> Mon1
+    Sec1 -.-> Sec2 -.-> Sec3 -.-> Sec1
+    
+    %% Styling
+    classDef coreNode fill:#000000,stroke:#00f5ff,stroke-width:4px,color:#00f5ff
+    classDef cloudNode fill:#ff6b35,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    classDef containerNode fill:#0db7ed,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    classDef ciNode fill:#2ecc71,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    classDef iacNode fill:#7b42bc,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    classDef monNode fill:#e67e22,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    classDef secNode fill:#e74c3c,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    
+    class DevOps coreNode
+    class Cloud1,Cloud2,Cloud3 cloudNode
+    class Container1,Container2,Container3 containerNode
+    class CI1,CI2,CI3 ciNode
+    class IaC1,IaC2,IaC3 iacNode
+    class Mon1,Mon2,Mon3 monNode
+    class Sec1,Sec2,Sec3 secNode
 ```
 
 </div>
